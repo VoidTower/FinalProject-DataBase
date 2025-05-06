@@ -1,0 +1,11 @@
+# Ignore virtual environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore zip and token files
+*.zip
+*token.json
+
+# Ignore Jupyter checkpoints if using notebooks
+.ipynb_checkpoints/
